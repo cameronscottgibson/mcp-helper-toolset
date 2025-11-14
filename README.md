@@ -1,5 +1,7 @@
 # HTTP & Currency MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@cameronscottgibson/mcp-helper-toolset)](https://smithery.ai/server/@cameronscottgibson/mcp-helper-toolset)
+
 An MCP server that provides two powerful capabilities:
 1. **HTTP Requests**: Make HTTP requests to any URL using a curl-like interface
 2. **Currency Conversion**: Real-time currency conversion and exchange rate information
@@ -303,4 +305,3 @@ Ready to deploy? Push your code to GitHub and deploy to Smithery:
 - [Smithery Docs](https://smithery.ai/docs)
 - [MCP Protocol](https://modelcontextprotocol.io)
 - [Original Curl Server](https://github.com/mcp-get/community-servers/tree/main/src/server-curl)
-
